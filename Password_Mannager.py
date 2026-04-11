@@ -38,7 +38,7 @@ while True:
 
     elif choice == "2":
         if not passwords:
-            print("No Password Avaliable")
+            print("No Password Available")
 
         else:
             for site , pwd in passwords.items():
